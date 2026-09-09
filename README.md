@@ -1,8 +1,8 @@
 # AlkB sequential demethylation kinetics
 
 Code and data for the global kinetic analysis of AlkB-catalyzed oxidative
-demethylation of exocyclic dimethyl DNA/RNA base modifications (m2₂G, m6₆A,
-m4₄C), reported in Table 1 and Table S10 of the accompanying manuscript.
+demethylation of exocyclic dimethyl DNA/RNA base modifications (m22G, m66A,
+m44C), reported in Table 1 and Table S10 of the accompanying manuscript.
 
 ## What this does
 
